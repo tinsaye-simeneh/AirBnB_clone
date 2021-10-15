@@ -277,5 +277,5 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Tinsaye Simeneh** <[Kibi](https://github.com/tinsaye-simeneh)>
-* **Bernabas Hordofa** <[Heyo](https://github.com/bernaba123)>
+* **Tinsaye Simeneh** <[Tinsaye](https://github.com/tinsaye-simeneh)>
+* **Bernabas Hordofa** <[Berna](https://github.com/bernaba123)>
